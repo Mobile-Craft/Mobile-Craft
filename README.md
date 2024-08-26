@@ -27,7 +27,7 @@
     ![GitHub: Mobile-Craft](https://img.shields.io/github/followers/Mobile-Craft?label=follow&style=social)
 </a>
 <a href="https://www.instagram.com/mobilecraft_?igsh=MWpueDlwYjR0bmhwOA==">
-    ![Instagram: Mobile-Craft](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" alt="Instagram: Mobile-Craft" height="25">
 </a>
 
 &emsp;
