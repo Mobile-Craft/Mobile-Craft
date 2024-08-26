@@ -10,7 +10,6 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on developing mobile apps at **Banreservas**.
 - 📚 I'm also expanding my knowledge in **backend development** and **cloud computing**.
 - 🌱 I’m currently learning **.NET and Azure Functions**.
 - 💬 Ask me about **React Native, Flutter, and mobile app development**.
@@ -26,6 +25,9 @@
 </a>
 <a href="https://github.com/Mobile-Craft">
     ![GitHub: Mobile-Craft](https://img.shields.io/github/followers/Mobile-Craft?label=follow&style=social)
+</a>
+<a href="https://www.instagram.com/mobilecraft_?igsh=MWpueDlwYjR0bmhwOA==">
+    ![Instagram: Mobile-Craft](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png)
 </a>
 
 &emsp;
