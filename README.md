@@ -9,10 +9,23 @@
 
 -------------------
 &emsp;
-
+- 📱 **React Native** Senior
 - 📚 I'm also expanding my knowledge in **backend development** and **cloud computing**.
 - 🌱 I’m currently learning **.NET and Azure Functions**.
 - 💬 Ask me about **React Native, Flutter, and mobile app development**.
+
+&emsp;
+
+
+## 📱 Mobile Apps I've Worked On
+
+### AFP Siembra
+- **[Android](https://play.google.com/store/apps/details?id=com.appmovil.siembra)**
+- **[iOS](https://apps.apple.com/do/app/mi-siembra/id1495099098?l=en-GB)**
+
+### APORDOM
+- **[Android](https://play.google.com/store/apps/details?id=com.solvex.apordom)**
+- **[iOS](https://apps.apple.com/do/app/autoridad-portuaria-dominicana/id6479921366?l=en-GB)**
 
 &emsp;
 
