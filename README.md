@@ -29,7 +29,7 @@
 
 ### Humano
 - **[Android](https://play.google.com/store/apps/details?id=com.arshumano.app.android&pcampaignid=web_share)**
-- - **[iOS](https://apps.apple.com/do/app/humano/id905470413?l=en-GB)**
+- **[iOS](https://apps.apple.com/do/app/humano/id905470413?l=en-GB)**
 &emsp;
 
 ## Me around the web:
