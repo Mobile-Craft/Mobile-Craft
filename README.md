@@ -112,10 +112,6 @@
 
 ![Elder's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mobile-Craft&theme=tokyonight)
 
-### 📊 Contribution Stats
-
-<img alt="Elder's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Mobile-Craft&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
 ------
 
 Credit: [Elder Moisés Tavarez](https://github.com/Mobile-Craft)
