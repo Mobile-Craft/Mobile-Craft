@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elder</h1>
 
-<img src="https://lottiefiles.com/free-animation/mobile-app-showcase-g4tU30UUcL?color-palette=true" align="center" alt="header image">
+<img src="https://addonwebsolutions.com/wp-content/uploads/2018/08/mobile-app-development-pg.jpg" align="center" alt="header image">
 
 -------------------
 &emsp;
