@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elder</h1>
 
-<img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" align="center" alt="header image">
+<img src="https://lottiefiles.com/free-animation/mobile-app-showcase-g4tU30UUcL?color-palette=true" align="center" alt="header image">
 
 -------------------
 &emsp;
