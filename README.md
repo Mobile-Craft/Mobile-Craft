@@ -27,6 +27,9 @@
 - **[Android](https://play.google.com/store/apps/details?id=com.solvex.apordom)**
 - **[iOS](https://apps.apple.com/do/app/autoridad-portuaria-dominicana/id6479921366?l=en-GB)**
 
+### Humano
+- **[Android](https://play.google.com/store/apps/details?id=com.arshumano.app.android&pcampaignid=web_share)**
+- - **[iOS](https://apps.apple.com/do/app/humano/id905470413?l=en-GB)**
 &emsp;
 
 ## Me around the web:
