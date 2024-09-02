@@ -112,17 +112,20 @@
 
 ## 📄 Certificates
 
+## 📄 Certificates
+
 ### Flutter
-<iframe src="title/Title Flutter.pdf" width="100%" height="500px"></iframe>
+[![Flutter Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](title/TitleFlutter.pdf)
 
 ### JavaScript
-<iframe src="title/Title JS.pdf" width="100%" height="500px"></iframe>
+[![JavaScript Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](title/TitleJS.pdf)
 
 ### React Native
-<iframe src="title/Titulo RN.pdf" width="100%" height="500px"></iframe>
+[![React Native Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](title/TituloRN.pdf)
 
 ### University Transcript - UTESA
-<iframe src="title/University Transcript - UTESA.pdf" width="100%" height="500px"></iframe>
+[![University Transcript - UTESA](https://img.shields.io/badge/View%20Certificate-PDF-orange)](title/UniversityTranscript-UTESA.pdf)
+
 
 ------
 
