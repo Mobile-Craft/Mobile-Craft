@@ -113,7 +113,7 @@
 
 ## 📄 Certificates
 
-### University Transcript - UTESA
+### University - UTESA
 [![University Transcript - UTESA](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/UniversityTranscript-UTESA.pdf)
 
 ### React Native
