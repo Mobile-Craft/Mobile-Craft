@@ -111,9 +111,10 @@
 ------
 
 
-## 📄 Certificates
+## <img alt="Elder's Top Languages" src="https://cdn-icons-png.flaticon.com/256/3135/3135807.png" height="24px"/> Certificates
 
-### University - UTESA
+
+### University
 [![University Transcript - UTESA](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/UniversityTranscript-UTESA.pdf)
 
 ### React Native
