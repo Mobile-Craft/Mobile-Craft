@@ -110,9 +110,19 @@
 
 ------
 
-## 📄 Certificate
+## 📄 Certificates
 
-[![Udemy Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-02dcfbbe-1d70-4efe-9eb4-109e92e1ea9f.pdf)
+### Flutter
+<iframe src="title/Title Flutter.pdf" width="100%" height="500px"></iframe>
+
+### JavaScript
+<iframe src="title/Title JS.pdf" width="100%" height="500px"></iframe>
+
+### React Native
+<iframe src="title/Titulo RN.pdf" width="100%" height="500px"></iframe>
+
+### University Transcript - UTESA
+<iframe src="title/University Transcript - UTESA.pdf" width="100%" height="500px"></iframe>
 
 ------
 
