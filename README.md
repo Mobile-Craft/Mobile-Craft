@@ -110,9 +110,14 @@
 
 ------
 
-## 📄 Certificates
 
 ## 📄 Certificates
+
+### University Transcript - UTESA
+[![University Transcript - UTESA](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/UniversityTranscript-UTESA.pdf)
+
+### React Native
+[![React Native Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/TituloRN.pdf)
 
 ### Flutter
 [![Flutter Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/TitleFlutter.pdf)
@@ -120,11 +125,8 @@
 ### JavaScript
 [![JavaScript Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/TitleJS.pdf)
 
-### React Native
-[![React Native Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/TituloRN.pdf)
 
-### University Transcript - UTESA
-[![University Transcript - UTESA](https://img.shields.io/badge/View%20Certificate-PDF-orange)](titles/UniversityTranscript-UTESA.pdf)
+
 
 
 ------
