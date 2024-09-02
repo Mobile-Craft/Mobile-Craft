@@ -108,6 +108,14 @@
 
 <img alt="Elder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobile-Craft&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
+------
+
+## 📄 Certificate
+
+[![Udemy Certificate](https://img.shields.io/badge/View%20Certificate-PDF-orange)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-02dcfbbe-1d70-4efe-9eb4-109e92e1ea9f.pdf)
+
+------
+
 ### 🔥 Streak Stats
 
 ![Elder's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mobile-Craft&theme=tokyonight)
